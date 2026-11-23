@@ -12,14 +12,6 @@ Infelizmente, o site foi descontinuado devido à falta de orçamento para manter
 
 Apesar do encerramento, o código-fonte continuará disponível neste repositório para quem quiser consultá-lo, estudá-lo ou utilizá-lo, respeitando os termos da licença.
 
-## 📂 Repositório
-
-Você pode acessar os arquivos do projeto diretamente pelo GitHub:
-
-- [Código-fonte](https://github.com/SrNap/Skipp-website)
-- [README.md](https://github.com/SrNap/Skipp-website/blob/main/README.md)
-- [LICENSE](https://github.com/SrNap/Skipp-website/blob/main/LICENSE)
-
 ## 📜 Licença
 
 Este projeto está licenciado sob a **MIT License**.
